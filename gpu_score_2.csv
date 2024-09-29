@@ -1,0 +1,153 @@
+gpu,gpu_score
+M2 10-Core GPU,911.5
+M1 8-Core GPU,588.0
+A12Z Bionic GPU,0.0
+A17 Pro GPU,444.0
+Immortalis-G715 MP11,451.0
+A15 GPU 5-Core,427.55
+Adreno 725,359.0
+A15 GPU 4-Core,395.75
+Xclipse 920,302.0
+Mali-G78 MP24,0.0
+Mali-G78 MP22,232.0
+A12 Bionic GPU,245.0
+Mali-G78 MP20,144.0
+A11 Bionic GPU,166.9
+A9X / PowerVR Series 7XT,140.15
+A10 Fusion GPU / PowerVR,114.15
+Mali-G77 MP9,184.5
+Mali-G610 MP6,272.0
+Adreno 642,153.0
+Adreno 640,166.0
+Mali-G76 MP12,96.5
+Mali-G68 MP5,119.0
+Mali-G57 MP5,115.0
+Mali-G72 MP18,145.0
+Mali-G72 MP12,118.0
+PowerVR GM9446,45.0
+PowerVR GXA6850,70.4
+A9 / PowerVR GT7600,79.95
+Mali-G76 MP4,80.0
+Mali-G71 MP2,22.0
+Mali-G72 MP3,38.0
+Mali-T880 MP4,39.0
+Mali-G68 MP2,0.0
+Mali-G52 MP1,24.0
+Mali-T880 MP2,24.0
+Adreno 420,41.35
+BXM-8-256,73.5
+Mali-G57 MP3,69.0
+Adreno 619,91.0
+Adreno 618,84.5
+Mali-G57 MP1,25.5
+Mali-G51 MP4,39.0
+Adreno 612,41.0
+Adreno 512,50.0
+Adreno 330,24.0
+PowerVR GX6250,27.8
+HD Graphics (Bay Trail),16.0
+Mali-T760 MP4,16.0
+Mali-T628 MP4,12.0
+Adreno 508,30.0
+PowerVR GE8322 / IMG8322,19.0
+Adreno 504,11.0
+Mali-T830 MP3,34.0
+GeForce Tegra 4,17.5
+Adreno 405,14.0
+PowerVR SGX543MP4,0.0
+Adreno 320,13.0
+PowerVR GE8320,20.0
+PowerVR GE8100,6.0
+Mali-450 MP4,10.05
+PowerVR SGX543MP3,6.75
+PowerVR SGX545,2.8
+Mali-T720 MP2,9.55
+Adreno 308,7.6
+Adreno 305,5.7
+Mali-T720,6.0
+Adreno 302,4.35
+GC4000,4.05
+GeForce ULP (Tegra 3),3.15
+Adreno 220,0.0
+Mali-400 MP2,4.25
+GeForce ULP (Tegra 2),0.0
+Adreno 205,0.0
+GC800,0.0
+PowerVR SGX531,0.5
+Adreno 200,0.0
+M2 8-Core GPU,839.2
+M1 7-Core GPU,620.0
+A12X Bionic GPU,444.7
+Adreno 740,478.0
+A16 GPU 5-Core,458.5
+Adreno 730,381.0
+Mali-G710 MP10,294.0
+A14 Bionic GPU,317.5
+Adreno 660,250.5
+Mali-G710 MP7,251.0
+A13 Bionic GPU,307.0
+Adreno 650,206.0
+Mali-G78 MP14,154.0
+A10X Fusion GPU / PowerVR,224.5
+Tegra X1 Maxwell GPU,123.0
+Mali-G77 MP11,199.0
+Mali-G76 MP16,151.5
+Adreno 644,148.0
+Adreno 642L,133.0
+Adreno 630,150.0
+Mali-G76 MP10,119.5
+Mali-G57 MP6,107.5
+Adreno 540,111.5
+Mali-G71 MP20,105.0
+Mali-G71 MP8,73.5
+Adreno 530,88.0
+Tegra K1 Kepler GPU,60.0
+Mali-T880 MP12,82.0
+Mali-T760 MP8,53.5
+Adreno 430,49.0
+Mali-G68 MP4,102.5
+Mali-G52 MP6,87.0
+Mali-G52 MP2,43.0
+Mali-T760 MP6,31.0
+PowerVR GX6450,44.8
+Adreno 620,95.0
+Mali-G57 MP4,84.0
+Adreno 418,34.0
+Adreno 619L,72.5
+Mali-G57 MP2,62.5
+Adreno 616,65.0
+HD Graphics (Cherry Trail),32.0
+Adreno 610,36.0
+Adreno 510,31.0
+PowerVR G6430,27.9
+PowerVR G6400,23.6
+Mali-T628 MP6,22.8
+PowerVR SGX554MP4,9.35
+Adreno 509,36.0
+Adreno 506,23.0
+Adreno 505,17.0
+Mali-T860 MP2,17.0
+Mali-T604 MP4,12.4
+PowerVR G6200,15.0
+Mali-T830 MP2,18.5
+Mali-T624,14.2
+Mali-T760 MP2,16.0
+PowerVR GE8300,14.0
+Mali-T720 MP4,12.0
+Mali-T830 MP1,12.0
+PowerVR SGX543MP2,0.0
+PowerVR SGX544MP2,6.95
+PowerVR SGX544,2.7
+Adreno 306,5.3
+Adreno 304,5.2
+GC7000UL,5.4
+Adreno 225,3.2
+Mali-400 MP4,4.05
+VideoCore-IV,2.9
+GC1000+ Dual-Core,2.7
+Mali-400 MP,4.15
+PowerVR SGX540,1.0
+Adreno 203,1.65
+PowerVR SGX535,0.0
+PowerVR SGX530,0.0
+Mali-200,0.0
